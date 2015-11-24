@@ -12,12 +12,14 @@ public class TryCatchEx
 			   System.out.println(ae);
 			   }  
 <<<<<<< HEAD
+<<<<<<< HEAD
       System.out.println("remaining code"); 
 System.out.println("end of code");
-     
 =======
-      System.out.println("rest of the code...");  
->>>>>>> 076bda70d643d257f1dc1c1e8f71561151312b87
+      System.out.println("******remaining code******"); 
+>>>>>>> m2
+     
+
 	 }  
 		
 }

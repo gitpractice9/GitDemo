@@ -11,7 +11,8 @@ public class TryCatchEx
 		       {
 			   System.out.println(ae);
 			   }  
-
+<<<<<<< HEAD
+<<<<<<< HEAD
       System.out.println("remaining code"); 
 System.out.println("end of code");
 =======

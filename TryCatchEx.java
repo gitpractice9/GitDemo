@@ -11,7 +11,8 @@ public class TryCatchEx
 		       {
 			   System.out.println(ae);
 			   }  
-      System.out.println("rest of the code...");  
+      System.out.println("...remaining code...");  
+      
 	 }  
 		
 }

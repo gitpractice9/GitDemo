@@ -10,7 +10,7 @@ config,init,add,commit,remote,push.
 > There is an options newfile,browse files in github to add a newfiles directly in github.
 > After adding or changing the files,We have to pull that changes into our local repository.
   For that we have fetch,merge and direct pull commands.
-> Suppose,if we want to revert our commits,We have to run gir revert command along with commit id which we want to revert.
+> Suppose,if we want to revert our commits,We have to run git revert command along with commit id which we want to revert.
 > Suppose if we are working in a organization and belongs to any team.For example Here i have one organization named as "gitschool" and 
    it contains 4 memebers(X,Y,Z and O) and 1 team named as "ExploreGit".
 > And everyone is on master branch which is default.
